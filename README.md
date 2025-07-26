@@ -1,6 +1,6 @@
 # AI Vision System - Object Detection & Face Recognition
 
-A powerful web application that combines real-time object detection with personalized face recognition using TensorFlow.js and face-api.js.
+A web application that combines real-time object detection with personalized face recognition using TensorFlow.js and face-api.js.
 
 ## 🌟 Features
 
@@ -26,7 +26,7 @@ A powerful web application that combines real-time object detection with persona
 
 ## 🚀 Live Demo
 
-**Deployed Application**: https://vjdwrxys.manus.space
+**Deployed Application**: https://xxxx
 
 ## 📦 Package Contents
 
